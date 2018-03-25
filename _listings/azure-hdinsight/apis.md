@@ -11,8 +11,8 @@ tags:
 - Microsoft
 - Data
 - Analysis
-created: "2018-03-21"
-modified: "2018-03-21"
+created: "2018-03-25"
+modified: "2018-03-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-hdinsight/master/_listings/azure-hdinsight/apis.yaml
 specificationVersion: "0.14"
 apis:
