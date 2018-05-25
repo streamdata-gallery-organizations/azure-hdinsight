@@ -8,8 +8,8 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "10"
 x-alexaRank: ""
 tags: Azure HDInsight
-created: "2018-05-21"
-modified: "2018-05-21"
+created: "2018-05-24"
+modified: "2018-05-24"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-hdinsight/master/_listings/azure-hdinsight/apis.md
 specificationVersion: "0.14"
 apis:
@@ -22,9 +22,9 @@ apis:
   tags: Applications
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-hdinsight/master/_listings/azure-hdinsight/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosofthdinsightclustersclusternameapplications-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-hdinsight/master/_listings/azure-hdinsight/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-hdinsightclustersclusternameapplications-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-hdinsight/master/_listings/azure-hdinsight/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosofthdinsightclustersclusternameapplications-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-hdinsight/master/_listings/azure-hdinsight/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-hdinsightclustersclusternameapplications-get-openapi.md
 - name: Azure HDInsight API Applications Get
   x-api-slug: azure-hdinsight-api
   description: Lists properties of the application.
@@ -34,9 +34,9 @@ apis:
   tags: Applications
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-hdinsight/master/_listings/azure-hdinsight/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosofthdinsightclustersclusternameapplicationsapplicationname-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-hdinsight/master/_listings/azure-hdinsight/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-hdinsightclustersclusternameapplicationsapplicationname-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-hdinsight/master/_listings/azure-hdinsight/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosofthdinsightclustersclusternameapplicationsapplicationname-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-hdinsight/master/_listings/azure-hdinsight/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-hdinsightclustersclusternameapplicationsapplicationname-get-openapi.md
 - name: Azure HDInsight API Applications Create
   x-api-slug: azure-hdinsight-api
   description: The operation creates applications for the HDInsight cluster.
@@ -46,7 +46,7 @@ apis:
   tags: Applications
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-hdinsight/master/_listings/azure-hdinsight/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosofthdinsightclustersclusternameapplicationsapplicationname-put-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-hdinsight/master/_listings/azure-hdinsight/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-hdinsightclustersclusternameapplicationsapplicationname-put-openapi.md
 - name: Azure HDInsight API Applications Delete
   x-api-slug: azure-hdinsight-api
   description: Lists all of the applications HDInsight cluster.
@@ -56,9 +56,9 @@ apis:
   tags: Applications
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-hdinsight/master/_listings/azure-hdinsight/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosofthdinsightclustersclusternameapplicationsapplicationname-delete-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-hdinsight/master/_listings/azure-hdinsight/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-hdinsightclustersclusternameapplicationsapplicationname-delete-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-hdinsight/master/_listings/azure-hdinsight/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosofthdinsightclustersclusternameapplicationsapplicationname-delete-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-hdinsight/master/_listings/azure-hdinsight/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-hdinsightclustersclusternameapplicationsapplicationname-delete-openapi.md
 - name: Azure HDInsight API Location Get Capabilities
   x-api-slug: azure-hdinsight-api
   description: Gets the capabilities for the specified location.
@@ -68,7 +68,7 @@ apis:
   tags: Location Capabilities
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-hdinsight/master/_listings/azure-hdinsight/subscriptionssubscriptionidprovidersmicrosofthdinsightlocationslocationcapabilities-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-hdinsight/master/_listings/azure-hdinsight/subscriptionssubscriptionidprovidersmicrosoft-hdinsightlocationslocationcapabilities-get-openapi.md
 - name: Azure HDInsight API Clusters Create
   x-api-slug: azure-hdinsight-api
   description: Begins creating a new HDInsight cluster with the specified parameters.
@@ -78,7 +78,7 @@ apis:
   tags: Clusters
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-hdinsight/master/_listings/azure-hdinsight/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosofthdinsightclustersclustername-put-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-hdinsight/master/_listings/azure-hdinsight/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-hdinsightclustersclustername-put-openapi.md
 - name: Azure HDInsight API Clusters Update
   x-api-slug: azure-hdinsight-api
   description: Patch HDInsight cluster with the specified parameters.
@@ -88,7 +88,7 @@ apis:
   tags: Clusters
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-hdinsight/master/_listings/azure-hdinsight/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosofthdinsightclustersclustername-patch-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-hdinsight/master/_listings/azure-hdinsight/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-hdinsightclustersclustername-patch-openapi.md
 - name: Azure HDInsight API Clusters Delete
   x-api-slug: azure-hdinsight-api
   description: Begins deleting the specified HDInsight cluster.
@@ -98,9 +98,9 @@ apis:
   tags: Clusters
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-hdinsight/master/_listings/azure-hdinsight/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosofthdinsightclustersclustername-delete-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-hdinsight/master/_listings/azure-hdinsight/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-hdinsightclustersclustername-delete-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-hdinsight/master/_listings/azure-hdinsight/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosofthdinsightclustersclustername-delete-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-hdinsight/master/_listings/azure-hdinsight/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-hdinsightclustersclustername-delete-openapi.md
 - name: Azure HDInsight API Clusters Get
   x-api-slug: azure-hdinsight-api
   description: Gets the specified cluster.
@@ -110,9 +110,9 @@ apis:
   tags: Clusters
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-hdinsight/master/_listings/azure-hdinsight/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosofthdinsightclustersclustername-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-hdinsight/master/_listings/azure-hdinsight/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-hdinsightclustersclustername-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-hdinsight/master/_listings/azure-hdinsight/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosofthdinsightclustersclustername-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-hdinsight/master/_listings/azure-hdinsight/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-hdinsightclustersclustername-get-openapi.md
 - name: Azure HDInsight API Clusters List By Resource Group
   x-api-slug: azure-hdinsight-api
   description: List the HDInsight clusters in a resource group.
@@ -122,9 +122,9 @@ apis:
   tags: Clusters Resource Group
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-hdinsight/master/_listings/azure-hdinsight/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosofthdinsightclusters-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-hdinsight/master/_listings/azure-hdinsight/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-hdinsightclusters-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-hdinsight/master/_listings/azure-hdinsight/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosofthdinsightclusters-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-hdinsight/master/_listings/azure-hdinsight/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-hdinsightclusters-get-openapi.md
 - name: Azure HDInsight API Clusters Resize
   x-api-slug: azure-hdinsight-api
   description: Begins a resize operation on the specified HDInsight cluster.
@@ -134,7 +134,7 @@ apis:
   tags: Clusters Resize
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-hdinsight/master/_listings/azure-hdinsight/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosofthdinsightclustersclusternamerolesrolenameresize-post-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-hdinsight/master/_listings/azure-hdinsight/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-hdinsightclustersclusternamerolesrolenameresize-post-openapi.md
 - name: Azure HDInsight API Clusters List
   x-api-slug: azure-hdinsight-api
   description: Lists HDInsight clusters under the subscription.
@@ -144,9 +144,9 @@ apis:
   tags: Clusters
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-hdinsight/master/_listings/azure-hdinsight/subscriptionssubscriptionidprovidersmicrosofthdinsightclusters-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-hdinsight/master/_listings/azure-hdinsight/subscriptionssubscriptionidprovidersmicrosoft-hdinsightclusters-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-hdinsight/master/_listings/azure-hdinsight/subscriptionssubscriptionidprovidersmicrosofthdinsightclusters-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-hdinsight/master/_listings/azure-hdinsight/subscriptionssubscriptionidprovidersmicrosoft-hdinsightclusters-get-openapi.md
 - name: Azure HDInsight API Clusters Change Rdp Settings
   x-api-slug: azure-hdinsight-api
   description: Begins changing the RDP settings on the specified cluster.
@@ -156,7 +156,7 @@ apis:
   tags: Clusters Change Rdptings
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-hdinsight/master/_listings/azure-hdinsight/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosofthdinsightclustersclusternamechangerdpsetting-post-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-hdinsight/master/_listings/azure-hdinsight/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-hdinsightclustersclusternamechangerdpsetting-post-openapi.md
 - name: Azure HDInsight API Configurations Update HTTPSettings
   x-api-slug: azure-hdinsight-api
   description: Begins configuring the HTTP settings on the specified cluster.
@@ -166,7 +166,7 @@ apis:
   tags: Configurations Httpsettings
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-hdinsight/master/_listings/azure-hdinsight/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosofthdinsightclustersclusternameconfigurationsconfigurationname-post-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-hdinsight/master/_listings/azure-hdinsight/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-hdinsightclustersclusternameconfigurationsconfigurationname-post-openapi.md
 - name: Azure HDInsight API Configurations Get
   x-api-slug: azure-hdinsight-api
   description: The configuration object for the specified cluster.
@@ -176,9 +176,9 @@ apis:
   tags: Configurations
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-hdinsight/master/_listings/azure-hdinsight/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosofthdinsightclustersclusternameconfigurationsconfigurationname-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-hdinsight/master/_listings/azure-hdinsight/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-hdinsightclustersclusternameconfigurationsconfigurationname-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-hdinsight/master/_listings/azure-hdinsight/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosofthdinsightclustersclusternameconfigurationsconfigurationname-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-hdinsight/master/_listings/azure-hdinsight/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-hdinsightclustersclusternameconfigurationsconfigurationname-get-openapi.md
 - name: Azure HDInsight API Extension Create
   x-api-slug: azure-hdinsight-api
   description: Create HDInsight cluster extension.
@@ -188,7 +188,7 @@ apis:
   tags: Extension
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-hdinsight/master/_listings/azure-hdinsight/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosofthdinsightclustersclusternameextensionsextensionname-put-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-hdinsight/master/_listings/azure-hdinsight/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-hdinsightclustersclusternameextensionsextensionname-put-openapi.md
 - name: Azure HDInsight API Extension Get
   x-api-slug: azure-hdinsight-api
   description: Get extension properties for HDInsight cluster extension.
@@ -198,7 +198,7 @@ apis:
   tags: Extension
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-hdinsight/master/_listings/azure-hdinsight/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosofthdinsightclustersclusternameextensionsextensionname-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-hdinsight/master/_listings/azure-hdinsight/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-hdinsightclustersclusternameextensionsextensionname-get-openapi.md
 - name: Azure HDInsight API Extension Delete
   x-api-slug: azure-hdinsight-api
   description: Delete extension for HDInsight cluster.
@@ -208,7 +208,7 @@ apis:
   tags: Extension
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-hdinsight/master/_listings/azure-hdinsight/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosofthdinsightclustersclusternameextensionsextensionname-delete-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-hdinsight/master/_listings/azure-hdinsight/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-hdinsightclustersclusternameextensionsextensionname-delete-openapi.md
 - name: Azure HDInsight API Operations List
   x-api-slug: azure-hdinsight-api
   description: Lists all of the available HDInsight REST API operations.
@@ -218,9 +218,9 @@ apis:
   tags: Operations
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-hdinsight/master/_listings/azure-hdinsight/providersmicrosofthdinsightoperations-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-hdinsight/master/_listings/azure-hdinsight/providersmicrosoft-hdinsightoperations-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-hdinsight/master/_listings/azure-hdinsight/providersmicrosofthdinsightoperations-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-hdinsight/master/_listings/azure-hdinsight/providersmicrosoft-hdinsightoperations-get-openapi.md
 - name: Azure HDInsight API Script Actions Delete
   x-api-slug: azure-hdinsight-api
   description: Deletes a given persisted script action of the cluster.
@@ -230,9 +230,9 @@ apis:
   tags: Script Actions
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-hdinsight/master/_listings/azure-hdinsight/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosofthdinsightclustersclusternamescriptactionsscriptname-delete-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-hdinsight/master/_listings/azure-hdinsight/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-hdinsightclustersclusternamescriptactionsscriptname-delete-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-hdinsight/master/_listings/azure-hdinsight/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosofthdinsightclustersclusternamescriptactionsscriptname-delete-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-hdinsight/master/_listings/azure-hdinsight/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-hdinsightclustersclusternamescriptactionsscriptname-delete-openapi.md
 - name: Azure HDInsight API Clusters Execute Script Actions
   x-api-slug: azure-hdinsight-api
   description: Begins executing script actions on the specified HDInsight cluster.
@@ -242,7 +242,7 @@ apis:
   tags: Clusters Execute Script Actions
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-hdinsight/master/_listings/azure-hdinsight/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosofthdinsightclustersclusternameexecutescriptactions-post-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-hdinsight/master/_listings/azure-hdinsight/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-hdinsightclustersclusternameexecutescriptactions-post-openapi.md
 - name: Azure HDInsight API Script Actions List
   x-api-slug: azure-hdinsight-api
   description: Lists all persisted script actions for the given cluster.
@@ -252,7 +252,7 @@ apis:
   tags: Script Actions
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-hdinsight/master/_listings/azure-hdinsight/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosofthdinsightclustersclusternamescriptactions-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-hdinsight/master/_listings/azure-hdinsight/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-hdinsightclustersclusternamescriptactions-get-openapi.md
 - name: Azure HDInsight API Script Execution History Get
   x-api-slug: azure-hdinsight-api
   description: Gets the script execution detail for the given script execution id.
@@ -262,7 +262,7 @@ apis:
   tags: Script Execution History
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-hdinsight/master/_listings/azure-hdinsight/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosofthdinsightclustersclusternamescriptexecutionhistoryscriptexecutionid-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-hdinsight/master/_listings/azure-hdinsight/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-hdinsightclustersclusternamescriptexecutionhistoryscriptexecutionid-get-openapi.md
 - name: Azure HDInsight API Script Execution History List
   x-api-slug: azure-hdinsight-api
   description: Lists all scripts execution history for the given cluster.
@@ -272,7 +272,7 @@ apis:
   tags: Script Execution History
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-hdinsight/master/_listings/azure-hdinsight/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosofthdinsightclustersclusternamescriptexecutionhistory-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-hdinsight/master/_listings/azure-hdinsight/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-hdinsightclustersclusternamescriptexecutionhistory-get-openapi.md
 - name: Azure HDInsight API Script Execution History Promote
   x-api-slug: azure-hdinsight-api
   description: Promote ad-hoc script execution to a persisted script.
@@ -282,7 +282,7 @@ apis:
   tags: Script Execution History Promote
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-hdinsight/master/_listings/azure-hdinsight/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosofthdinsightclustersclusternamescriptexecutionhistoryscriptexecutionidpromote-post-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-hdinsight/master/_listings/azure-hdinsight/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-hdinsightclustersclusternamescriptexecutionhistoryscriptexecutionidpromote-post-openapi.md
 - name: Azure HDInsight API
   x-api-slug: azure-hdinsight-api
   description: Azure HDInsight is a Hadoop-based service that brings an Apache Hadoop
