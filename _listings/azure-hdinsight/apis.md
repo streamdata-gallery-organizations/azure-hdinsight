@@ -6,10 +6,10 @@ description: Azure HDInsight is a Hadoop-based service that brings an Apache Had
   that manages data of any type and size.
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/azure-hdinsights-open-source-analytics.png
 x-kinRank: "10"
-x-alexaRank: ""
+x-alexaRank: "0"
 tags: Azure HDInsight
-created: "2018-05-24"
-modified: "2018-05-24"
+created: "2018-06-20"
+modified: "2018-06-20"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-hdinsight/master/_listings/azure-hdinsight/apis.md
 specificationVersion: "0.14"
 apis:
